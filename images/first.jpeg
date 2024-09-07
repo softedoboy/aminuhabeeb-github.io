@@ -1,0 +1,817 @@
+<!doctype html><html class="no-js" lang="en"><head><!-- OneTrust Cookies Consent Notice start for npr.org -->
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/82089dfe-410c-4e1b-a7f9-698174b62a86/OtAutoBlock.js" ></script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="82089dfe-410c-4e1b-a7f9-698174b62a86" ></script>
+
+<script type="text/javascript">
+function OptanonWrapper() {
+    NPR_OptanonWrapper = true;
+    document.dispatchEvent(new CustomEvent('npr:DataConsentAvailable'));
+    
+    OneTrust.OnConsentChanged(function() {
+        document.dispatchEvent(new CustomEvent('npr:DataConsentChanged'));
+    });
+ }
+</script>
+<!-- OneTrust Cookies Consent Notice end for npr.org -->
+<script src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript" charset="UTF-8" ccpa-opt-out-ids="C0004" ccpa-opt-out-geo="us" ccpa-opt-out-lspa="false"></script><script type="text/plain" class="optanon-category-C0004">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);
+</script><script type='text/javascript'>
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+</script><script>
+(function (e, o, n, i) {
+    if (!e) {
+        e = e || {}, window.permutive = e, e.q = [];
+        var t = function () {
+            return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) {
+                return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16)
+            })
+        };
+        e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t());
+        for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) {
+            var w = g[r];
+            e[w] = function (o) {
+                return function () {
+                    var n = Array.prototype.slice.call(arguments, 0);
+                    e.q.push({functionName: o, arguments: n})
+                };
+            }(w);
+        }
+    }
+})(window.permutive, "12730e07-f09d-4a69-93da-99b43983b663", "e1cef1f0-495f-4973-ba1c-880786e73a66", {"consentRequired": true});
+</script>
+
+
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://boards.greenhouse.io/nationalpublicradioinc
+
+-->
+
+
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Want to lay off workers more smoothly? There's a startup for that : Planet Money : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow,max-image-preview:large" /><meta name="apple-itunes-app" content="app-id=324906251, app-argument=https://www.npr.org/sections/money/2022/07/26/1113044764/want-to-lay-off-workers-more-smoothly-theres-a-startup-for-that" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2022-07-26" /><link rel="canonical" href="https://www.npr.org/sections/money/2022/07/26/1113044764/want-to-lay-off-workers-more-smoothly-theres-a-startup-for-that" /><meta name="description" content="The tech industry is in turmoil. But there&#039;s at least one startup that is thriving these days, and it&#039;s one that&#039;s helping other startups lay off workers." /><link rel="alternate" type="application/rss+xml" title="Business" href="https://feeds.npr.org/1006/rss.xml" /><link rel="alternate" type="application/rss+xml" title="Planet Money" href="https://feeds.npr.org/93559255/rss.xml" /><link rel="alternate" type="application/json" title="Business" href="https://feeds.npr.org/feeds/1006/feed.json" /><link rel="alternate" type="application/json" title="Planet Money" href="https://feeds.npr.org/feeds/93559255/feed.json" /><meta name="cXenseParse:pageclass" content="article" /><meta name="cXenseParse:publishtime" content="2022-07-26T06:31:18-04:00" /><meta name="cXenseParse:author" content="Greg Rosalsky" /><link rel="apple-touch-icon" sizes="180x180" href="https://media.npr.org/chrome/favicon/favicon-180x180.png" /><link rel="shortcut icon" href="https://media.npr.org/chrome/favicon/favicon.ico" /><link rel="icon" sizes="96x96" href="https://media.npr.org/chrome/favicon/favicon-96x96.png" /><link rel="icon" sizes="48x48" href="https://media.npr.org/chrome/favicon/favicon-48x48.png" /><link rel="icon" sizes="32x32" href="https://media.npr.org/chrome/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://media.npr.org/chrome/favicon/favicon-16x16.png" /><meta property="og:title" content="Want to lay off workers more smoothly? There&#039;s a startup for that" /><meta property="og:url" content="https://www.npr.org/sections/money/2022/07/26/1113044764/want-to-lay-off-workers-more-smoothly-theres-a-startup-for-that" /><meta property="og:type" content="article" /><meta property="og:description" content="The tech industry is in turmoil. But there&#039;s at least one startup that is thriving these days, and it&#039;s one that&#039;s helping other startups lay off workers." /><meta property="og:image" content="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018_wide-e330f5a89993878fa5a01af6e4f2e90cca43f62e.jpg?s=1400&c=100&f=jpeg" /><meta property="og:site_name" content="NPR" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta property="article:content_tier" content="free" /><meta property="article:opinion" content="false" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Want to lay off workers more smoothly? There&#039;s a startup for that" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018_wide-e330f5a89993878fa5a01af6e4f2e90cca43f62e.jpg?s=1400&c=100&f=jpeg" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","geolocationHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","stationApiHost":"https:\/\/station.api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"cookieDomain":".npr.org","organizationV4Host":"https:\/\/organization.api.npr.org","staticAssetsHost":"https:\/\/static-assets.npr.org"};
+NPR.serverVars = {"storyId":"1113044764","storyCategory":"Business","isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/bundles.npr.org\/dist\/bundles\/","persistenceVersion":"bdffa3eace2834dd753244745af07403","isBuildOut":true,"topicIds":["P1006","1002","1003","1014","1017","1019","1059","1146"],"primaryTopic":"Business","topics":["Business","Home Page Top Stories","National","Politics","Economy","Technology","Analysis","Strange News"],"blog":"Planet Money","theme":"93559255","aggIds":["1002","1003","1006","1014","1017","1019","1059","1146","93559255","370140960","373309637","434975886","676824962","726239784","1113066062"],"tagIds":["layoff","startups","tech industry"],"byline":["Greg Rosalsky"],"contentPartnerOrgFullName":"1 | NPR","pubDate":"2022072606","fullPubDate":"Tue, 26 Jul 2022 06:31:18 -0400","pageTypeId":"1","title":"Want to lay off workers more smoothly? There\u0026#039;s a startup for that","publisherOrgId":"1"};
+</script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/11107397707.js">
+   </script>
+<script type="text/javascript" src="https://static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script type="text/javascript" src="https://static-assets.npr.org/static/javascript/lib/svg-loader.min.js">
+   </script>
+<script type="text/javascript" async src="https://js.stripe.com/v3/">
+   </script>
+<script>
+   !function(e){function a(a){for(var t,f,o=a[0],d=a[1],u=a[2],i=0,l=[];i<o.length;i++)f=o[i],Object.prototype.hasOwnProperty.call(n,f)&&n[f]&&l.push(n[f][0]),n[f]=0;for(t in d)Object.prototype.hasOwnProperty.call(d,t)&&(e[t]=d[t]);for(b&&b(a);l.length;)l.shift()();return c.push.apply(c,u||[]),r()}function r(){for(var e,a=0;a<c.length;a++){for(var r=c[a],t=!0,o=1;o<r.length;o++){var d=r[o];0!==n[d]&&(t=!1)}t&&(c.splice(a--,1),e=f(f.s=r[0]))}return e}var t={},n={0:0},c=[];function f(a){if(t[a])return t[a].exports;var r=t[a]={i:a,l:!1,exports:{}};return e[a].call(r.exports,r,r.exports,f),r.l=!0,r.exports}f.e=function(e){var a=[],r=n[e];if(0!==r)if(r)a.push(r[2]);else{var t=new Promise((function(a,t){r=n[e]=[a,t]}));a.push(r[2]=t);var c,o=document.createElement("script");o.charset="utf-8",o.timeout=120,f.nc&&o.setAttribute("nonce",f.nc),o.src=function(e){return f.p+""+e+"."+{1:"80ad90a7d3d6d766b8f3",2:"416efdc1c3a13c2e87a7",3:"4c456476f44143af529e",4:"190facabfdfad422a0bf",5:"e847a326a394b7b23a70",6:"c9cecb8513386a335069",7:"9f1def8b12b1adca0199",8:"4b627d19eb7fc41cf167",72:"af07530b03ce1ca4068e",73:"1b4da966286f3e72b9cf",74:"851f1aa7180bbd0573db",75:"13d7cdbd5826936e1c7a",76:"a9e77194fa615c119ef5",77:"8a678b4e2dc0902308ad",78:"eadd2a955ed6996e56b5",79:"0ba5a96629b1a4413f8f",80:"a703c0b77c7ad5cbaae5",81:"510e6f3c8037dd3d0d59",82:"abab1be1b681df3310e1",83:"8468faae8fd78c321e21",84:"595ce7d54edea170f6e9",85:"bff148dfb61cc1544d9d",86:"877fd909ba745f073572",87:"64097cc64355b5c751ae",88:"f2b8856fe34cc443a126",89:"501a50044111d849d22e",90:"f0ebeeafc68070c37896",91:"9ebf6dea1de5c3322499",92:"a5b6ef4a1f0de4142176",93:"5e32edb1988a29fb6385",94:"a412526ac7a04570a90a",95:"88cb706c2335f7b8345b",96:"7dc2cd9f950f7b760453",97:"5d62f9371ab7f8a40aa3",98:"7ec2ce21d99a2d20cf01",99:"e6577390424e32522b02",100:"390141a0dd89dce1ae1d"}[e]+".chunk.js"}(e);var d=new Error;c=function(a){o.onerror=o.onload=null,clearTimeout(u);var r=n[e];if(0!==r){if(r){var t=a&&("load"===a.type?"missing":a.type),c=a&&a.target&&a.target.src;d.message="Loading chunk "+e+" failed.\n("+t+": "+c+")",d.name="ChunkLoadError",d.type=t,d.request=c,r[1](d)}n[e]=void 0}};var u=setTimeout((function(){c({type:"timeout",target:o})}),12e4);o.onerror=o.onload=c,document.head.appendChild(o)}return Promise.all(a)},f.m=e,f.c=t,f.d=function(e,a,r){f.o(e,a)||Object.defineProperty(e,a,{enumerable:!0,get:r})},f.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},f.t=function(e,a){if(1&a&&(e=f(e)),8&a)return e;if(4&a&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(f.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&a&&"string"!=typeof e)for(var t in e)f.d(r,t,function(a){return e[a]}.bind(null,t));return r},f.n=function(e){var a=e&&e.__esModule?function(){return e.default}:function(){return e};return f.d(a,"a",a),a},f.o=function(e,a){return Object.prototype.hasOwnProperty.call(e,a)},f.p="/dist/bundles/",f.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],d=o.push.bind(o);o.push=a,o=o.slice();for(var u=0;u<o.length;u++)a(o[u]);var b=d;r()}([]);
+</script>
+<script type="text/javascript" src="https://bundles.npr.org/dist/bundles/31.2b7d10c1a16af7a3cea3.chunk.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/persistent-css-7ff34194194ecfa4dc82.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 768px)" href="https://bundles.npr.org/dist/bundles/persistent_medium-css-7ff34194194ecfa4dc82.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 1025px)" href="https://bundles.npr.org/dist/bundles/persistent_large-css-7ff34194194ecfa4dc82.css" /><link rel="preload" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/fonts-css-7ff34194194ecfa4dc82.css" as="style" onload="this.onload=null;this.rel='stylesheet'"  /><link rel="stylesheet" media="screen, print" href="https://bundles.npr.org/dist/bundles/newsStory-css-7ff34194194ecfa4dc82.css" /><link rel="stylesheet" media="screen" href="https://static-assets.npr.org/branding/sections/money/branding.css" /><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"NPR","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo.jpg"}},"headline":"Want to lay off workers more smoothly? There's a startup for that","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/sections\/money\/2022\/07\/26\/1113044764\/want-to-lay-off-workers-more-smoothly-theres-a-startup-for-that"},"datePublished":"2022-07-26T06:31:18-04:00","dateModified":"2022-07-26T06:31:18-04:00","author":{"@type":"Person","name":["Greg Rosalsky"]},"description":"The tech industry is in turmoil. But there's at least one startup that is thriving these days, and it's one that's helping other startups lay off workers.","image":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2022\/07\/22\/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg"},"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+<script id="piano-aid" type="text/javascript" data-piano-aid="9ENxKQ58pu">
+    (function(src) {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = src;
+        var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b)
+    })("//cdn.piano.io/api/tinypass.min.js");
+
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = true;
+
+    tp = window.tp || [];
+
+    tp.push(["init", function() {
+        tp.enableGACrossDomainLinking();
+    }]);
+</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="MBVDT-3L9KY-36ZMJ-SPSAR-JR833",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"MBVDT-3L9KY-36ZMJ-SPSAR-JR833";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="rzy4lkvyszdjczw3tzna-f-0a671141a-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"55818","ak.ai":parseInt("290690",10),"ak.ol":"0","ak.cr":6,"ak.ipv":4,"ak.proto":"h2","ak.rid":"45c3c17a","ak.r":34870,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"142.113.197.0","ak.cport":53487,"ak.gh":"184.150.70.86","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1725668954","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==bdf0LpkxAS1wA34bwIPbtzqfkrJ9i5siKk4oL34QSH2WQ/hDn/cI635qw0J5F6yjOg5bCAyLxIGlkxFVzaHbyUFtqUJV4EYSUXJLDjyQ3p3kHVphO8aEbWlLcN6xx1v1j6CnxSPgrFxlvx1MKqzE6s90dRUwPpYbMNIklAfe952xZ0o1VW+fiBj2DReWrYrCIeA2oZMY9MRm8zjOyaVHZdrsaKfG83z9ZoNq+aSaJoI8nLxlMVjY1i6bCcYOSH0QzUoMTuo1zO4Dr4ByrZVm5BUeEP7r4LvKsv8XN1T2g6gB9dKmDYACLBiq9/EsqtEwYlWkbQlNOdepYCiQ7BfrvaWxaF32vohjc6CFeA9kiVbcn7r2bXjLNzQohmlPDXA+CDTYXMWSn0U6t6VYeOIUwoEYxQAuD5/DaLMW++dEdQ0=","ak.pv":"95","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body id="news" class="news tmplBlogNewsStory  story-layout is-buildout no-transcript   has-podcast-tools blog catId676824962 id1113044764  " data-pjax-modules="util/env images/lazy-load data-consent data-management-platform header-bidding metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts we-are-hiring piano rum ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout social/recaptcha">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header">
+<nav class="navigation">
+    <div class="navigation__top-level-wrap" data-metrics-category-ga4="recirculation">
+        <ul class="navigation__top-level">
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-ga4='{"action":"global_navigation_click","clickName":"open navigation menu","clickType":"global navigation"}'>
+                    Open Navigation Menu
+                </button>
+            </li>
+
+            <li class="navigation__home">
+                <a href="/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}'>
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li class="navigation__newsletters">
+                <div class="navigation__newsletters-inner">
+                    <a href="/newsletters/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' target='_blank'>Newsletters</a>
+                </div>
+            </li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shopnpr.org" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}'>NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-category-ga4="recirculation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-ga4='{"action":"global_navigation_click","clickName":"close navigation menu","clickType":"global navigation"}'>
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}'>Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"news","clickType":"global navigation","clickUrl":"/sections/news/"}'>News</a>
+                        <button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle news drawer","clickType":"global navigation"}'>Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"national","clickType":"global navigation","clickUrl":"/sections/national/"}'>National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"world","clickType":"global navigation","clickUrl":"/sections/world/"}'>World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"politics","clickType":"global navigation","clickUrl":"/sections/politics/"}'>Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"business","clickType":"global navigation","clickUrl":"/sections/business/"}'>Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"health","clickType":"global navigation","clickUrl":"/sections/health/"}'>Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"science","clickType":"global navigation","clickUrl":"/sections/science/"}'>Science</a></li>
+                        <li class="submenu__item"><a href="/sections/climate/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"climate","clickType":"global navigation","clickUrl":"/sections/climate/"}'>Climate</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"race","clickType":"global navigation","clickUrl":"/sections/codeswitch/"}'>Race</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--culture menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/culture/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"culture","clickType":"global navigation","clickUrl":"/sections/culture/"}'>Culture</a>
+                        <button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle culture drawer","clickType":"global navigation"}'>Expand/collapse submenu for Culture</button>
+                    </div>
+
+                    <ul class="submenu submenu--culture">
+                        <li class="submenu__item"><a href="/books/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"books","clickType":"global navigation","clickUrl":"/books/"}'>Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"movies","clickType":"global navigation","clickUrl":"/sections/movies/"}'>Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"television","clickType":"global navigation","clickUrl":"/sections/television/"}'>Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"pop culture","clickType":"global navigation","clickUrl":"/sections/pop-culture/"}'>Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"food","clickType":"global navigation","clickUrl":"/sections/food/"}'>Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"art & design","clickType":"global navigation","clickUrl":"/sections/art-design/"}'>Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"performing arts","clickType":"global navigation","clickUrl":"/sections/performing-arts/"}'>Performing Arts</a></li>
+                        <li class="submenu__item"><a href="/lifekit/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"life kit","clickType":"global navigation","clickUrl":"/lifekit/"}'>Life Kit</a></li>
+                        <li class="submenu__item"><a href="/sections/gaming/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"gaming","clickType":"global navigation","clickUrl":"/sections/gaming/"}'>Gaming</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"music","clickType":"global navigation","clickUrl":"/music/"}'>Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle music drawer","clickType":"global navigation"}'>Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' >
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/1191556125/hip-hop-50"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"hip-hop 50","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/1191556125\/hip-hop-50"}' >
+        Hip-Hop 50
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' >
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' >
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' >
+        Live Sessions
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/podcasts-and-shows/" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts & shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}'>Podcasts &amp; Shows</a>
+                        <button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle podcasts &amp; shows drawer","clickType":"global navigation"}'>Expand/collapse submenu for Podcasts &amp; Shows</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition" data-metrics-ga4='{"action":"global_navigation_click","clickName":"morning edition","clickType":"global navigation","clickUrl":"/programs/morning-edition/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" loading="lazy" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition saturday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-saturday/"}'>
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition sunday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-sunday/"}'>
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered" data-metrics-ga4='{"action":"global_navigation_click","clickName":"all things considered","clickType":"global navigation","clickUrl":"/programs/all-things-considered/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" loading="lazy" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air" data-metrics-ga4='{"action":"global_navigation_click","clickName":"fresh air","clickType":"global navigation","clickUrl":"/programs/fresh-air/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" loading="lazy" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first/" data-metrics-action="click up first" data-metrics-ga4='{"action":"global_navigation_click","clickName":"up first","clickType":"global navigation","clickUrl":"/podcasts/510318/up-first/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2" loading="lazy" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510310/npr-politics-podcast"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"the npr politics podcast","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510310\/npr-politics-podcast"}' >
+        <img src="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-be7ef464dd058fe663d9e4cfe836fb9309ad0a4d-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-be7ef464dd058fe663d9e4cfe836fb9309ad0a4d-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        The NPR Politics Podcast
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510333/throughline"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"throughline","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510333\/throughline"}' >
+        <img src="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-b72bcfb6d8705d7761d4f421f0be3047631b709c-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-b72bcfb6d8705d7761d4f421f0be3047631b709c-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Throughline
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510374/trumps-trials"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"trump&#39;s trials","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510374\/trumps-trials"}' >
+        <img src="https://media.npr.org/assets/img/2023/11/10/trumps-trial_tile-art_small_sq-71cfb7f3a96f3029db4ca7230c5704c61a351b81-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2023/11/10/trumps-trial_tile-art_small_sq-71cfb7f3a96f3029db4ca7230c5704c61a351b81-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Trump's Trials
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510379/wild-card-with-rachel-martin"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"wild card with rachel martin","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510379\/wild-card-with-rachel-martin"}' >
+        <img src="https://media.npr.org/assets/img/2024/04/19/tile-wild-card-with-rachel-martin_sq-c9e842a167bab21c50f45fbde9d7d33776e87eda-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2024/04/19/tile-wild-card-with-rachel-martin_sq-c9e842a167bab21c50f45fbde9d7d33776e87eda-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Wild Card with Rachel Martin
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/podcasts-and-shows/" data-metrics-action="click podcasts & shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts & shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}'>More Podcasts &amp; Shows</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search/" id="navigation_dropdown-search" data-metrics-action="click search" data-metrics-ga4='{"action":"global_navigation_click","clickName":"search","clickType":"global navigation","clickUrl":"/search/"}'>Search</a>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--newsletters">
+                    <div class="menu__item-inner">
+                        <a href="/newsletters/" data-metrics-action="click newsletters" data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' target='_blank'>Newsletters</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shopnpr.org" data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}'>NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-category-ga4="recirculation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr music logo","clickType":"global navigation","clickUrl":"/music/"}'>
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo" alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' >
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/1191556125/hip-hop-50"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"hip-hop 50","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/1191556125\/hip-hop-50"}' >
+        Hip-Hop 50
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' >
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' >
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' >
+        Live Sessions
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-category-ga4="recirculation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr" data-metrics-ga4='{"action":"global_navigation_click","clickName":"about npr","clickType":"about ecosystem navigation","clickUrl":"/about/"}'>About NPR</a></li>
+                <li class="menu__item menu__item--about-diversity"><a href="/diversity/" data-metrics-action="click diversity" data-metrics-ga4='{"action":"global_navigation_click","clickName":"diversity","clickType":"about ecosystem navigation","clickUrl":"/diversity/"}'>Diversity</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support" data-metrics-ga4='{"action":"global_navigation_click","clickName":"support","clickType":"about ecosystem navigation","clickUrl":"/support/"}'>Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers" data-metrics-ga4='{"action":"global_navigation_click","clickName":"careers","clickType":"about ecosystem navigation","clickUrl":"/careers/"}'>Careers</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/series/750003/press-room/" data-metrics-action="click press" data-metrics-ga4='{"action":"global_navigation_click","clickName":"press","clickType":"about ecosystem navigation","clickUrl":"/series/750003/press-room/"}'>Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"ethics","clickType":"about ecosystem navigation","clickUrl":"/ethics/"}'>Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Want to lay off workers more smoothly? There's a startup for that : Planet Money</b>   <b data-is-speakable>The tech industry is in turmoil. But there's at least one startup that is thriving these days, and it's one that's helping other startups lay off workers.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one"><div class="branding branding--custom">
+      <a href="https://www.npr.org/sections/money/"><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-image"><picture><source srcset="https://media.npr.org/branding/sections/money/branding_main-f986e4ef8cf94de912ea43c514d620c88b5dce6d-s1000-c100.webp"  type="image/webp"  data-format="webp" /><source srcset="https://media.npr.org/branding/sections/money/branding_main-f986e4ef8cf94de912ea43c514d620c88b5dce6d-s1000-c100.png"  type="image/png" /><img src="https://media.npr.org/branding/sections/money/branding_main-f986e4ef8cf94de912ea43c514d620c88b5dce6d-s1000-c100.png" class="branding__image-title" alt="Planet Money" /></picture><b>Planet Money</b></h2>
+   <b class="branding__mini-teaser">The Economy Explained</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+<div class="subnav-tools-wrap">
+      <div id="subNavigation" class="agglocation linkLocation" role="navigation" aria-label="sub-navigation">
+            <div id="res341873294" class="bucketwrap statichtml">
+                  <div class="subtopics">  <ul class="animated fadeInRight">    <li><a href="/podcasts/510289/planet-money/">Planet Money Podcast</a></li>    <li><a href="/podcasts/510325/the-indicator-from-planet-money">The Indicator Podcast</a></li>    <li><a href="/sections/money/newsletter">Planet Money Newsletter Archive</a></li>    <li><a href="/series/1015448333/planet-money-summer-school">Planet Money Summer School</a></li>    <li><a href="/sections/money/2011/04/27/135599807/about-planet-money">About</a></li>  </ul></div><div class="roller-overlay"></div><ul class="subscribe">  <li class="twitter"><a href="https://twitter.com/planetmoney" data-metrics="{"action":"Click Twitter"}">Twitter</a></li>  <li class="facebook"><a href="https://www.facebook.com/planetmoney" data-metrics="{"action":"Click Facebook"}">Facebook</a></li></ul>
+      </div>
+      
+<!-- END ID="RES341873294" CLASS="BUCKETWRAP STATICHTML" -->
+   </div>
+</div>
+</header>   <section id="main-section"><article class="story story-blogpost"><a id="mainContent"></a><ul class="podcast-tools podcast-tools--510289">
+    <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 6250;
+        --source-height: 6250;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s=1100&c=15&f=jpeg" data-original="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s=1100&c=100&f=jpeg" data-template="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s={width}&c={quality}&f={format}" data-format="webp" class="img lazyOnLoad" type="image/webp" />
+            <source srcset="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s=1100&c=15&f=jpeg" data-original="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s=1100&c=100&f=jpeg" data-template="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" class="img lazyOnLoad" type="image/jpeg" />
+            <img src="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s=1100&c=15&f=jpeg" data-original="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s=1100&c=100&f=jpeg" data-template="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" class="img lazyOnLoad" alt="Planet Money" loading="lazy" />
+        </picture>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        NPR
+        
+    </span>
+</div>
+
+    <div class="podcast-tools__slugandmodal">
+      <li><div class="slug-wrap">
+        <h4 class="slug-tag">
+            <a href="https://www.npr.org/sections/analysis/">
+            Analysis
+            </a>
+        </h4>
+
+    <h3 class="slug">
+        <a href="https://www.npr.org/sections/money/newsletter">Newsletter</a>
+    </h3>
+</div>
+</li>
+      <div class="podcast-tools__modal">
+        <li class="subscribe" data-sharepop data-selector=".sharepop.subscribe">
+          <button>LISTEN & FOLLOW
+            <svg data-src="https://media.npr.org/chrome_svg/podcasts/apple-podcasts.svg"
+              class="subscribe-logo" id="applepods-icon" alt="Apple Podcasts Logo"
+            ></svg>
+            <svg data-src="https://media.npr.org/chrome_svg/podcasts/spotify.svg" class="subscribe-logo" alt="Spotify Logo"
+            ></svg>
+            <svg data-src="https://media.npr.org/chrome_svg/podcasts/google-podcasts.svg" class="subscribe-logo" alt="Google Pods Logo"
+            ></svg>
+            <svg data-src="https://media.npr.org/chrome_svg/social-icons/story-pages/icon-email-333.svg"
+              class="subscribe-logo email-icon" alt="Email icon"
+            ></svg>
+          </button>
+        </li>
+
+        <li class="podcast-tools__subscribe-links">
+          <div class="sharepop-four">
+              <div class="sharepop">
+                  <ul>
+                      <li>
+                        <a href="https://rpb3r.app.goo.gl/M4f5" data-analytics-allow-facebook="data-analytics-allow-facebook"   data-metrics-ga4='{&quot;category&quot;:&quot;podcast&quot;,&quot;action&quot;:&quot;podcast_follow_click&quot;,&quot;clickName&quot;:&quot;npr one universal&quot;,&quot;clickType&quot;:&quot;podcast follow button&quot;}' >
+                          <span class="subscribe__imagecontainer subscribe__imagecontainer--NPR-One">
+                          </span>
+                          NPR App</a></li>
+                      <li>
+                        <a href="https://podcasts.apple.com/podcast/290783428?mt=2&amp;at=11l79Y&amp;ct=nprdirectory" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics-ga4='{&quot;category&quot;:&quot;podcast&quot;,&quot;action&quot;:&quot;podcast_follow_click&quot;,&quot;clickName&quot;:&quot;itunes&quot;,&quot;clickType&quot;:&quot;podcast follow button&quot;}' >
+                          <span class="subscribe__imagecontainer subscribe__imagecontainer--apple-podcasts">
+                          </span>
+                          Apple Podcasts</a></li>
+                      <li>
+                          <a href="https://open.spotify.com/show/4FYpq3lSeQMAhqNI81O0Cn" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics-ga4='{&quot;category&quot;:&quot;podcast&quot;,&quot;action&quot;:&quot;podcast_follow_click&quot;,&quot;clickName&quot;:&quot;Spotify&quot;,&quot;clickType&quot;:&quot;podcast follow button&quot;}' >
+                          <span class="subscribe__imagecontainer subscribe__imagecontainer--spotify">
+                          </span>
+                          Spotify</a></li>
+                      
+                      <li>
+                        <a href="https://music.amazon.com/podcasts/ed82f32a-6150-4bbe-bd80-90492cc2727d" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics-ga4='{&quot;category&quot;:&quot;podcast&quot;,&quot;action&quot;:&quot;podcast_follow_click&quot;,&quot;clickName&quot;:&quot;amazon music&quot;,&quot;clickType&quot;:&quot;podcast follow button&quot;}' >
+                          <span class="subscribe__imagecontainer subscribe__imagecontainer--amazon-music">
+                          </span>
+                        Amazon Music</a></li>
+                      
+                      
+                      <li>
+                        <a target="_blank" href="https://feeds.npr.org/510289/podcast.xml" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics-ga4='{&quot;category&quot;:&quot;podcast&quot;,&quot;action&quot;:&quot;podcast_follow_click&quot;,&quot;clickName&quot;:&quot;rss&quot;,&quot;clickType&quot;:&quot;podcast follow button&quot;}' >
+                          <span class="subscribe__imagecontainer subscribe__imagecontainer--rss">
+                          </span>
+                          RSS link</a></li>
+                  </ul>
+              </div>
+
+              <!--
+              <div class="newsletter-placeholder">
+                Sign up for the [TITLE] Newsletter
+                <input type="text" id="emailfield" name="emailfield" value="my@email.com">
+              </div>
+
+              <div class="plusoffering-placeholder">
+                Get perks with [Podcast Title]+
+                <p>Your support helps make our show possible and unlocks access to our sponsor-free feed.</p>
+                <button>LEARN MORE</button>
+              </div>
+              -->
+          </div>
+        </li>
+      </div>
+    </div>
+</ul>
+<div class="slug-wrap">
+        <h4 class="slug-tag">
+            <a href="https://www.npr.org/sections/analysis/">
+            Analysis
+            </a>
+        </h4>
+
+    <h3 class="slug">
+        <a href="https://www.npr.org/sections/money/newsletter">Newsletter</a>
+    </h3>
+</div>
+<div class="storytitle">
+      <h1>Want to lay off workers more smoothly? There's a startup for that</h1>
+   <input type="hidden" id="title1113044764" value="Want to lay off workers more smoothly? There&#039;s a startup for that" />
+   <input type="hidden" id="shortTitle1113044764" value="Want to lay off workers more smoothly? There&#039;s a startup for that" />
+   <input type="hidden" id="modelFullUrl1113044764" value="https://www.npr.org/sections/money/2022/07/26/1113044764/want-to-lay-off-workers-more-smoothly-theres-a-startup-for-that" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div id="story-meta" class="story-meta has-byline">
+      <div class="story-meta__one">
+            <div class="story-meta__one-inner">
+                  <div class="dateblock">
+    <time datetime="2022-07-26T06:31:18-04:00">
+            <span class="date">July 26, 2022</span><span class="time">6:31 AM ET</span>
+    </time>
+</div>
+      </div>
+      
+<!-- END CLASS="STORY-META__ONE-INNER" -->
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div id="storybyline" class="storybyline-wrap linkLocation">
+                  <div class="bucketwrap byline">
+                        <div class="byline-container--block">
+                              <div class="byline byline--block byline--has-link" aria-label="Byline">
+    <div class="byline__photo">
+      <a href="https://www.npr.org/people/726239784/greg-rosalsky" rel="author">
+        <picture><source srcset="https://media.npr.org/assets/img/2022/09/14/gregrosalsky_1_sq-a9cbb0b59a1ba29671df00ffff46eff546e2836c.jpg?s=100&c=85&f=webp" class="img" type="image/webp" data-template="https://media.npr.org/assets/img/2022/09/14/gregrosalsky_1_sq-a9cbb0b59a1ba29671df00ffff46eff546e2836c.jpg?s={width}&c={quality}&f={format}" data-format="webp" /><source srcset="https://media.npr.org/assets/img/2022/09/14/gregrosalsky_1_sq-a9cbb0b59a1ba29671df00ffff46eff546e2836c.jpg?s=100&c=85&f=jpeg" class="img" type="image/jpeg" data-template="https://media.npr.org/assets/img/2022/09/14/gregrosalsky_1_sq-a9cbb0b59a1ba29671df00ffff46eff546e2836c.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" /><img src="https://media.npr.org/assets/img/2022/09/14/gregrosalsky_1_sq-a9cbb0b59a1ba29671df00ffff46eff546e2836c.jpg?s=100&c=85&f=jpeg" class="img" alt="Greg Rosalsky, photographed for NPR, 2 August 2022, in New York, NY. Photo by Mamadi Doumbouya for NPR." data-template="https://media.npr.org/assets/img/2022/09/14/gregrosalsky_1_sq-a9cbb0b59a1ba29671df00ffff46eff546e2836c.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" /></picture>
+      </a>
+    </div>
+  <p class="byline__name byline__name--block">
+      <a href="https://www.npr.org/people/726239784/greg-rosalsky" rel="author">
+      Greg Rosalsky
+    </a>
+  </p>
+</div>
+            </div>
+         </div>
+         
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+      </div>
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res1113045235" class="bucketwrap image large">
+            <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 2799;
+        --source-height: 2099;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s=1100&c=85&f=webp" class="img" type="image/webp" data-template="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s={width}&c={quality}&f={format}" data-format="webp" />
+            <source srcset="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s=1100&c=85&f=jpeg" class="img" type="image/jpeg" data-template="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" />
+            <img src="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s=1100&c=85&f=jpeg" class="img" alt="A large hand flicks away a male employee" data-template="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" />
+        </picture>
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s=2600&amp;c=100&amp;f=jpeg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Dane Mark/Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <picture>
+            <source data-original="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s=2600&amp;c=100&amp;f=webp" type="image/webp">
+            <source data-original="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s=2600&amp;c=100&amp;f=jpeg" type="image/jpeg">
+            <img data-original="https://media.npr.org/assets/img/2022/07/22/gettyimages-1297783018-19b61cef38389aa3b9770f34e3b72e464aa54485.jpg?s=2600&amp;c=100&amp;f=jpeg" alt="A large hand flicks away a male employee" />
+        </picture>
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <span class="credit" aria-label="Image credit">
+            
+            Dane Mark/Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>You might have heard about the fintech company Klarna, whose CEO recently played a <a href="https://www.businessinsider.com/klarna-fintech-unicorn-pre-recorded-message-layoff-700-employees-2022-5">prerecorded video</a> at an all-staff meeting to tell his employees that many of them were about to be laid off. The company then made them wait for up to two days, in agonizing suspense, to find out whether they were the ones getting axed. Delivering the bad news with a boilerplate script as if they were robots, Klarna's HR execs ended up sacking about 700 workers — ten percent of its workforce — via video calls. The calls lasted <a href="https://blog.pragmaticengineer.com/layoffs-at-klarna/">2-3 minutes</a>, and no questions were allowed. Ouch.</p>   <aside id="ad-backstage-wrap" class="ad-wrap backstage" aria-label="advertisement">
+    <div class="ad-header "><span>Sponsor Message</span></div>
+
+    <div id="ad-backstage-News_Business" class="ad-config ad-backstage has-refresh-enabled" data-ad-config='{"network":"\/6735\/","site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1113044764","agg":["434975886","93559255"],"blog":"93559255"},"location":"backstage","deferred":false,"isBetweenContent":true,"overflowCount":null,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":true}'></div>
+
+
+    <div class="ad-footer "></div>
+</aside>
+   <p>Or, how about Better.com, a tech mortgage company whose CEO laid off hundreds of employees in <a href="https://www.bbc.com/news/business-59554585">a single Zoom call</a> — and then decided to kick them when they were down, <a href="https://fortune.com/2021/12/03/better-com-ceo-attacks-laid-off-employees-blind-message-board/">accusing them</a> of "stealing" from the company by not being productive enough. A few months later, in a second round of layoffs, the company <a href="https://techcrunch.com/2022/03/08/better-com-employees-learned-of-layoffs-when-severance-checks-appeared-in-payroll-app/">accidentally</a> sent soon-to-be-terminated workers severance checks. The problem: they hadn't yet been told they were laid off.</p>   <p>Sacking stories like this seem to be everywhere these days, as the tech industry grapples with nosediving valuations, stingier venture capital, and an economic slowdown. Big names like <a href="https://techcrunch.com/2022/07/12/tesla-laying-off-229-autopilot-workers-shuttering-san-mateo-office-filing-confirms/">Tesla</a>, <a href="https://newsroompost.com/tech/from-microsoft-to-netflix-tech-companies-that-laid-off-employees-in-recent-months/5141911.html">Microsoft</a>, <a href="https://www.cnn.com/2022/06/23/media/netflix-layoffs/index.html">Netflix</a>, <a href="https://www.cnbc.com/2022/06/14/coinbase-lays-off-18percent-as-execs-prepare-for-recession-crypto-winter.html">Coinbase</a>, <a href="https://techcrunch.com/2022/07/20/lyft-lays-off-about-60-employees-shutters-in-house-car-rentals-program/">Lyft</a>, and <a href="https://www.wsj.com/articles/twitter-lays-off-third-of-talent-team-11657227105">Twitter</a> are cutting workers loose. Meta — aka Facebook — recently signaled its gearing up for layoffs. "If a direct report is coasting or is a low performer, they are not who we need; they are failing this company," a company executive told managers in <a href="https://www.dailymail.co.uk/news/article-11006597/Facebook-tells-managers-identify-workers-coasting-low-performers-leaked-memo.html">a leaked memo</a>. Low performers at Facebook may soon find themselves coasting to the unemployment line.</p>   <p>Smaller tech companies, which are struggling to raise money and woo investors, are getting hit even harder than the big dogs. According to <a href="https://layoffs.fyi/">layoffs.fyi</a>, which tracks terminations, 387 startups have laid off over 56,000 employees in 2022. </p>   <aside id="ad-secondary-wrap" class="ad-wrap secondary" aria-label="advertisement">
+    <div class="ad-header "><span>Sponsor Message</span></div>
+
+    <div id="ad-secondary-News_Business" class="ad-config ad-secondary has-refresh-enabled" data-ad-config='{"network":"\/6735\/","site":{"desktop":"NPRSecondary","mobile":"NPRMobileSecondary"},"zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1113044764","agg":["434975886","93559255"],"blog":"93559255"},"location":"secondary","deferred":false,"isBetweenContent":true,"overflowCount":null,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}'></div>
+
+
+    <div class="ad-footer "></div>
+</aside>
+   <p>But there's at least one startup that is thriving in the market turmoil. And it's sort of the perfect metaphor for the current state of tech. The company is called Continuum, and it's cashing in at layoffpalooza.</p>   <p>"We were not thinking about creating a layoff product when we were founding the company," says Nolan Church, Continuum's CEO. But now, if you're a startup that wants to lay off workers, this new startup can help you with that. And it just convinced a group of venture capital firms to fork over <a href="https://techbuzz.news/continuum-raises-12-million-series-a/">$12 million</a> in new funding, which is pretty impressive in the current market environment. </p>   <h3 class="edTag">The Layoff-Time Continuum</h3>   <p>Church describes Continuum as a "labor marketplace for fractional executives." What are "fractional executives," you ask? That's techspeak for part-time consultants. The company, which Church co-founded in August 2020, aims to connect startups with seasoned executives who work a few hours here and there providing advice. His pitch: why spend millions recruiting and employing executives full time when you can spend only thousands employing them part time?</p>   <p>Continuum is basically TaskRabbit, but for high-paid executives. Whereas with TaskRabbit, you can hire gig workers to assemble furniture or repair your home, with Continuum, you can hire gig executives to consult your business — including, now, how to more smoothly, strategically, and "humanely" lay off workers. </p>   <p>"What ended up happening was in about March and April of this year, we had three or four customers that were already engaged with executives, leveraging those executives for layoff advice," Church explains about his company's recent shift to focusing on layoffs. "Then we started to see companies coming inbound, asking for more layoff advice."</p>   <p><strong><em>[Editor's note: This is an excerpt of </em></strong><strong>Planet Money</strong><strong><em>'s newsletter. You can </em></strong><a href="https://www.npr.org/newsletter/money"><strong><em>sign up here</em></strong></a><strong><em>.]</em></strong></p>   <p>Continuum charges <a href="https://www.joincontinuum.com/layoffs">a flat fee</a> for layoff consulting services, and the fee escalates with headcount. For companies with up to 100 employees, it costs $10,000. For those with between 100 and 250 employees, it costs $15,000. And for those with between 250 and 500 employees, it costs $20,000. If a company has more than 500 employees, Continuum's layoff services can cost more. </p>   <aside id="ad-third-wrap" class="ad-wrap third" aria-label="advertisement">
+    <div class="ad-header "><span>Sponsor Message</span></div>
+
+    <div id="ad-third-News_Business" class="ad-config ad-third has-refresh-enabled" data-ad-config='{"network":"\/6735\/","site":{"desktop":"NPRThird","mobile":"NPRMobileThird"},"zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1113044764","agg":["434975886","93559255"],"blog":"93559255"},"location":"third","deferred":false,"isBetweenContent":true,"overflowCount":null,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}'></div>
+
+
+    <div class="ad-footer "></div>
+</aside>
+   <p>For this fee, Continuum offers ten hours of advising from "elite executive advisers," a plan to communicate layoffs to employees and the broader world, and an analysis to help with diversity, equity, and inclusion goals. They launched their layoff product line earlier this month, and, Church says, they've already had twelve prospective customers, in addition to six existing ones.</p>   <p>It can be in a company's self-interest to handle layoffs with tact and compassion. "If the company is lucky enough to survive, people will remember how they were treated during this time," Church says. "And if they were treated poorly, that will have an effect on your employer brand." </p>   <p>Seeing how they laid off or maltreated employees in the past, valuable workers might think twice about working for companies like Klarna or Better.com in the future. Moreover, the morale of a company's remaining employees obviously matters. If some workers are treated like garbage, it can damage overall performance and loyalty. </p>   <p>Church recommends that companies be kind to workers they let go and offer them at least four weeks severance pay. He advises companies cut once and cut deep to try and prevent a drip, drip, drip of agony at the company. And he says companies need to think strategically about their workers who remain, including "tucking in" their highest performers, with either cash or equity. "You want to make sure that they are there to help you get through this moment," Church says. </p>   <p>With the new launch of their layoff product line, a cynic might accuse Continuum of shameless opportunism, profiting from others' misery. But Church sees tremendous value in the services his company provides. He responds to this potential criticism: "I would say have some empathy for the founders and early HR people who have never done this before and who want to do this the right way."</p>   <aside id="ad-overflow-3-wrap" class="ad-wrap overflow" aria-label="advertisement">
+    <div class="ad-header "><span>Sponsor Message</span></div>
+
+    <div id="ad-overflow-3-News_Business" class="ad-config ad-overflow-3 has-refresh-enabled" data-ad-config='{"network":"\/6735\/","site":{"desktop":"NPROverflow","mobile":"NPRMobileOverflow"},"zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1113044764","agg":["434975886","93559255"],"blog":"93559255"},"location":"overflow","deferred":false,"isBetweenContent":true,"overflowCount":3,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}'></div>
+
+
+    <div class="ad-footer "></div>
+</aside>
+   <p>Of course, we should also have some empathy for the workers themselves. Economic research finds that those laid off have <a href="https://www.nber.org/papers/w13626">higher mortality rates</a> and potentially a lifetime of <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/298273">lower earnings</a>. Church says one of its partners, a company called Dover, offers a website called "<a href="https://www.onesoftlanding.com/">One Soft Landing</a>," which tries to help laid off tech workers find new jobs. But, he admits, "there is a gap in the market to help these people, and, frankly, I wish there was more we could do." </p>   <p>Being laid off tends to be more harmful to workers than losing a job due to a business closure, <a href="https://dash.harvard.edu/bitstream/handle/1/3442782/Katz_LayoffsLemons.pdf">research finds</a>, because a layoff serves as an ominous signal to future employers. In a world of imperfect information, employers look for cues to assess the value of potential recruits, and a past layoff can brand workers as unproductive or lazy or untrustworthy. Call it the Scarlet Cover Letter.</p>
+</div>
+<div class="tags">
+      <ul>
+            <li><a class="tag tag--story"href="https://www.npr.org/tags/370140960/startups">startups</a></li>
+      <li><a class="tag tag--story"href="https://www.npr.org/tags/373309637/tech-industry">tech industry</a></li>
+      <li><a class="tag tag--story"href="https://www.npr.org/tags/1113066062/layoff">layoff</a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="TAGS" -->
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory1113044764" data-share-facebook='{"storyId": "1113044764" }'  data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story1113044764" data-share-flipboard='{"storyId": "1113044764" }'  data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='1113044764'  data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;money&quot;,&quot;title&quot;:&quot;Planet Money&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The Planet Money Newsletter&quot;,&quot;frequency&quot;:&quot;every week&quot;,&quot;shortDescription&quot;:&quot;Just the right amount of economics, sent weekly.&quot;,&quot;stickyDescription&quot;:&quot;Sign up for the Planet Money newsletter. Just the right amount of economics, sent weekly.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2019\/04\/16\/newsletter_planet_money_custom.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/blogs\/money\/subnav.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/money\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/money\/&quot;,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;MONEY&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;PLANET MONEY&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE PLANET MONEY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;JUST THE RIGHT AMOUNT OF ECONOMICS, SENT WEEKLY.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE PLANET MONEY NEWSLETTER. JUST THE RIGHT AMOUNT OF ECONOMICS, SENT WEEKLY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2019\/04\/16\/NEWSLETTER_PLANET_MONEY_CUSTOM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/BLOGS\/MONEY\/SUBNAV.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/MONEY\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/MONEY\/&QUOT;,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="podcast-callout-data" data-podcast="{&quot;name&quot;:&quot;Planet Money&quot;,&quot;itunesUrl&quot;:&quot;https:\/\/podcasts.apple.com\/podcast\/290783428?mt=2&amp;at=11l79Y&amp;ct=nprdirectory&quot;,&quot;googlePodcastsUrl&quot;:&quot;&quot;,&quot;rssUrl&quot;:&quot;https:\/\/feeds.npr.org\/510289\/podcast.xml&quot;,&quot;jsonFeedUrl&quot;:&quot;https:\/\/feeds.npr.org\/feeds\/1113044764\/feed.json&quot;,&quot;nprOneUniversalUrl&quot;:&quot;https:\/\/rpb3r.app.goo.gl\/M4f5&quot;,&quot;amazonAlexaUrl&quot;:&quot;&quot;,&quot;spotifyUrl&quot;:&quot;https:\/\/open.spotify.com\/show\/4FYpq3lSeQMAhqNI81O0Cn&quot;,&quot;brandingUrl&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2022\/10\/24\/pm_new_tile_2022_sq-b4af5aab11c84cfae38eafa1db74a6da943d4e7f.jpg?s=300&amp;c=85&amp;f=jpeg&quot;}">
+   </div>
+
+<!-- END ID="PODCAST-CALLOUT-DATA" DATA-PODCAST="{&QUOT;NAME&QUOT;:&QUOT;PLANET MONEY&QUOT;,&QUOT;ITUNESURL&QUOT;:&QUOT;HTTPS:\/\/PODCASTS.APPLE.COM\/PODCAST\/290783428?MT=2&AMP;AT=11L79Y&AMP;CT=NPRDIRECTORY&QUOT;,&QUOT;GOOGLEPODCASTSURL&QUOT;:&QUOT;&QUOT;,&QUOT;RSSURL&QUOT;:&QUOT;HTTPS:\/\/FEEDS.NPR.ORG\/510289\/PODCAST.XML&QUOT;,&QUOT;JSONFEEDURL&QUOT;:&QUOT;HTTPS:\/\/FEEDS.NPR.ORG\/FEEDS\/1113044764\/FEED.JSON&QUOT;,&QUOT;NPRONEUNIVERSALURL&QUOT;:&QUOT;HTTPS:\/\/RPB3R.APP.GOO.GL\/M4F5&QUOT;,&QUOT;AMAZONALEXAURL&QUOT;:&QUOT;&QUOT;,&QUOT;SPOTIFYURL&QUOT;:&QUOT;HTTPS:\/\/OPEN.SPOTIFY.COM\/SHOW\/4FYPQ3LSEQMAHQNI81O0CN&QUOT;,&QUOT;BRANDINGURL&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2022\/10\/24\/PM_NEW_TILE_2022_SQ-B4AF5AAB11C84CFAE38EAFA1DB74A6DA943D4E7F.JPG?S=300&AMP;C=85&AMP;F=JPEG&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<div id="callout-end-of-story-mount-piano-wrap" class="callout-end-of-story-mount-piano-wrap">
+      <div id="callout-end-of-story-mount-piano" class="callout-end-of-story-mount-piano">
+         </div>
+   
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO" -->
+</div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two"><div class="branding branding--custom">
+      <a href="https://www.npr.org/sections/money/"><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-image"><picture><source srcset="https://media.npr.org/branding/sections/money/branding_main-f986e4ef8cf94de912ea43c514d620c88b5dce6d-s1000-c100.webp"  type="image/webp"  data-format="webp" /><source srcset="https://media.npr.org/branding/sections/money/branding_main-f986e4ef8cf94de912ea43c514d620c88b5dce6d-s1000-c100.png"  type="image/png" /><img src="https://media.npr.org/branding/sections/money/branding_main-f986e4ef8cf94de912ea43c514d620c88b5dce6d-s1000-c100.png" class="branding__image-title" alt="Planet Money" /></picture><b>Planet Money</b></h2>
+   <b class="branding__mini-teaser">The Economy Explained</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+</header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/culture/">Culture</a></li>
+                <li class="npr-footer__item"><a href="/music/">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts-and-shows" >Podcasts &amp; Shows</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" target='_blank'>Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" >Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/">Instagram</a></li>
+                <li class="npr-footer__item"><a href="/press/">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/">Corrections</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org/contact/s/">Contact & Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/">Overview</a></li>
+                <li class="npr-footer__item"><a href="/diversity/">Diversity</a></li>
+                <li class="npr-footer__item"><a href="/network/" target="_blank">NPR Network</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/1136563345/accessibility">Accessibility</a></li>
+                <li class="npr-footer__item"><a href="/ethics/">Ethics</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances">Finances</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shopnpr.org/">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/sections/npr-extra/">NPR Extra</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div>
+</footer><div id="global-stickybar-mount" class="global-stickybar-mount">
+   </div>
+<div id="global-stickybar-mount-piano-wrap" class="global-stickybar">
+      <div id="global-stickybar-mount-piano" class="global-stickybar-mount-piano">
+         </div>
+</div>
+</section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" class="ad-wrap standard" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_Business" class="ad-config ad-standard has-refresh-enabled" data-ad-config='{"network":"\/6735\/","site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1113044764","agg":["434975886","93559255"],"blog":"93559255"},"location":"standard","deferred":false,"isBetweenContent":false,"overflowCount":null,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}'></div>
+
+    <p class="left">Sponsor Message</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+    
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[19],{1111:function(e,n,c){e.exports=c(305)},305:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(2),c.e(3),c.e(91),c.e(72)]).then(function(e){c(3),c(1083),c(44),c(75),c(29),c(166),c(121),c(63),c(65),c(1084),c(84),c(1085),c(298),c(1086),c(74)}.bind(null,c)).catch(c.oe)}},[[1111,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html>
